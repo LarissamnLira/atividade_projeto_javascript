@@ -9,7 +9,7 @@ const amount = document.getElementById("amount")
 const currency = document.getElementById("currency")
 const footer = document.querySelector("main footer")
 const description = document.getElementById("description")
-const result = documento.getElementById("result")
+const result = document.getElementById("result")
 
 // Manipulando o input amount para receber somente números.
 amount.addEventListener("input", () => {
